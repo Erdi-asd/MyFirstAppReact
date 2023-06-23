@@ -1,5 +1,3 @@
-App created to practice the basics of react
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
